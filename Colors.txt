@@ -1,7 +1,13 @@
 GREY
+Orange
 GREY
 GREY
 GREY
 GREY
 GREY
+Red
+Yellow
 GREY
+Green
+Blue
+Purple
