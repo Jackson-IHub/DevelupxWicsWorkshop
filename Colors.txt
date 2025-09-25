@@ -1,6 +1,5 @@
-Red
-Orange
-Yellow
-Green
-Blue
-Purple
+Magnolia
+Pine
+Spruce
+Birch
+Oak
